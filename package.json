@@ -1,0 +1,11 @@
+{
+  "name": "dscvr.space",
+  "version": "1.0.0",
+  "description": "HomePage for DSVCR Space",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3001 --host=0.0.0.0"
+  },
+  "author": "Lucas Craveiro Paes <lucascraveiropaes@gmail.com>",
+  "license": "ISC"
+}
